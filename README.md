@@ -4,6 +4,7 @@ records compressor current, vibration, refrigerant line temperatures and supply/
 ![STM32](https://img.shields.io/badge/MCU-STM32F103-03234B?logo=stmicroelectronics&logoColor=white)
 ![ESP32](https://img.shields.io/badge/MCU-ESP32-E7352C?logo=espressif&logoColor=white)
 ![Arduino](https://img.shields.io/badge/IDE-Arduino-00979D?logo=arduino&logoColor=white)
+
 Use it to build a baseline for a healthy system and spot problems early: low charge, dirty filters or coils, icing, a failing compressor.
 
 ## Features
