@@ -1,0 +1,7 @@
+../Core/Src/main.c:79:26:GetSum.constprop	5
+../Core/Src/main.c:146:26:SendData.part.0.isra	1
+../Core/Src/main.c:138:6:HAL_ADC_ConvHalfCpltCallback	1
+../Core/Src/main.c:142:6:HAL_ADC_ConvCpltCallback	1
+../Core/Src/main.c:252:6:SystemClock_Config	4
+../Core/Src/main.c:168:5:main	17
+../Core/Src/main.c:465:6:Error_Handler	1
