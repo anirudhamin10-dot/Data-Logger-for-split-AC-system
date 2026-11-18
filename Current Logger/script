@@ -1,0 +1,5 @@
+config load "C:\Users\aniru\STM32CubeIDE\workspace_2.1.1\Matgen\Matgen.ioc"
+config save C:\Users\aniru\STM32CubeIDE\workspace_2.1.1\Matgen\Matgen.ioc
+
+
+exit wait
